@@ -1485,10 +1485,10 @@
     "status": "assigned"
   },
   {
-    "alpha2": "FX",
+    "alpha2": "FR",
     "alpha3": "",
     "countryCallingCodes": [
-      "+241"
+      "+33"
     ],
     "currencies": [
       "EUR"
