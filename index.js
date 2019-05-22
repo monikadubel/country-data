@@ -104,8 +104,6 @@ callingCodesAll.sort(function (a, b) {
       return -1;
     } else if (splitA[1] > splitB[1]) {
       return 1;
-    } else if (splitA[1] == splitB[1]) {
-      return 1;
     } else {
       return 0;
     }
